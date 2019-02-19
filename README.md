@@ -4,7 +4,7 @@ In the project directory, you can run an application that will help you to keep 
 
 ## Deployment
 
-This project has moved here: https://t0-do-list.herokuapp.com/
+This project has moved here: https://t0-do-list.herokuapp.com/ If the site will be loaded for a long time, please wait for the heroku wake up
 
 ### `npm start`
 
