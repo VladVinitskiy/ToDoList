@@ -1,4 +1,4 @@
-## Description about project
+# Description about project
 
 In the project directory, you can run an application that will help you to keep and remember about some of the duties, tasks or promises that you must complete later.
 
